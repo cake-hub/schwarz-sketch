@@ -36,4 +36,4 @@ All used components meet the following requirements to find their way into our f
 | Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
 | Philipp Krüger | Developer | philipp.krueger@lidl.com |
 | Jasmin Sipahi | UI/UX Designer | jasmin.sipahi@lidl.com |
-| Martin Hofmann | UI/UX Designer | martin.hofmann@lidl.com |
+| Dinko Karacic | UI/UX Designer | dinko.karacic@lidl.com |
