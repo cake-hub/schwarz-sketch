@@ -31,8 +31,7 @@ All used components meet the following requirements to find their way into our f
 
 | Name | Position | Mail |
 |----|---|----|
-| Oliver Runge | Product Owner | oliver.runge@lidl.com |
-| Matthias Maier | Developer/Scrum Master | matthias.maier@lidl.com |
+| Michael Bahlmann | Product Owner | michael.bahlmann@lidl.com |
 | Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
 | Philipp Krüger | Developer | philipp.krueger@lidl.com |
 | Jasmin Sipahi | UI/UX Designer | jasmin.sipahi@lidl.com |
